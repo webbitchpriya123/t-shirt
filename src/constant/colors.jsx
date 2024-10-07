@@ -1,0 +1,9 @@
+export const white = '#FFFFFF';
+export const black = '#000000';
+export const grey = '#9796A1';
+export const orange = '#F58231';
+export const green = '#56A05D';
+export const background ='#f9f9f9';
+export const change = '#37B890';
+export const blue = '#206993';
+export const yellow = '#FFC120' 
